@@ -50,3 +50,4 @@ def prediction():
         pred = "Approved"
 
     return {"loan_approval_status": pred}
+
